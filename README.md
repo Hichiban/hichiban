@@ -10,7 +10,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-     <img align="left" height="250" alt="coding-time" src="code.gif">
+     <img align="left" height="250" alt="coding-time" src="progam.gif">
    <h2>Main skills </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="hichiban-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
